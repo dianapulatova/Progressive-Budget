@@ -9,15 +9,15 @@
 
   * [Application Heroku Link](#Application-Heroku-Link)
 
-  * [Usage](#usage)
+  * [Local Environment Setup](#Local-Environment-Setup)
 
-  * [License](#license)
+  * [Technology Used](#Technology-Used)
  
-  * [Contributing](#contributing)
+  * [Built With](#Built-With)
    
-  * [Tests](#tests)
+  * [Author](#Author)
 
-  * [Questions](#questions)
+  * [Questions](#Questions)
    
 
 ## Application Heroku Link
