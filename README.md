@@ -1,8 +1,9 @@
+ ![GitHub license](https://img.shields.io/badge/license-Creative%20Commons%20Zero%20v1.0%20Universal-blue.svg)
+
 # Progressive-Budget
-
-
- 
+  
 **Project Description** - Progressive Budget App allows users to track their money fast and easy and even when there is no internet connection/offline. 
+ ![Demo](assets/gif or png)
 
 ## Table of Contents
 
