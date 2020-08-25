@@ -68,10 +68,12 @@ path NPM Package | [https://www.npmjs.com/package/path](https://www.npmjs.com/pa
 -->
 
 ## Built With
+Framework | URL
+----------|-------------------------------------------------
 
-* VS Code - [https://code.visualstudio.com/](https://code.visualstudio.com/)
-* Git Tools - [https://git-scm.com/download](https://git-scm.com/download)
-* Live Markdown Editor - [https://jbt.github.io/markdown-editor/](https://jbt.github.io/markdown-editor/)
+ VS Code | [https://code.visualstudio.com/](https://code.visualstudio.com/)
+ Git Tools | [https://git-scm.com/download](https://git-scm.com/download)
+ Live Markdown Editor | [https://jbt.github.io/markdown-editor/](https://jbt.github.io/markdown-editor/)
 
 ## Author
 
