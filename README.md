@@ -57,3 +57,9 @@ npm start
 ## Author
 
 * **Diana Pulatova** - *PWA* - [Diana Pulatova Progressive Budget Repo](https://github.com/dianapulatova/Progressive-Budget.git)
+
+ ## Questions
+   
+  
+  If you have any questions about the repo, feel free to contact me at <dianapulatovaa@gmail.com>
+
