@@ -48,11 +48,13 @@ npm start
 ```
 
 ## Technology used
-- node.js - [https://nodejs.org/en/](https://nodejs.org/en/)
-- heroku-cli NPM Package - [https://www.npmjs.com/package/heroku-cli](https://www.npmjs.com/package/heroku-cli)
-- body-parser NPM Package - [https://www.npmjs.com/package/body-parser](https://www.npmjs.com/package/body-parser)
-- express NPM Package - [https://www.npmjs.com/package/express](https://www.npmjs.com/package/express)
-- path NPM Package - [https://www.npmjs.com/package/path](https://www.npmjs.com/package/path)
+Framework | URL
+----------|-------------------------------------------------
+node.js | [https://nodejs.org/en/](https://nodejs.org/en/)
+heroku-cli NPM Package | [https://www.npmjs.com/package/heroku-cli](https://www.npmjs.com/package/heroku-cli)
+body-parser NPM Package | [https://www.npmjs.com/package/body-parser](https://www.npmjs.com/package/body-parser)
+express NPM Package | [https://www.npmjs.com/package/express](https://www.npmjs.com/package/express)
+path NPM Package | [https://www.npmjs.com/package/path](https://www.npmjs.com/package/path)
 
 <!--
 - node.js - [https://nodejs.org/en/](https://nodejs.org/en/)
@@ -78,5 +80,5 @@ npm start
  ## Questions
    
   
-  If you have any questions about the repo, feel free to contact me at <dianapulatovaa@gmail.com>
+  If you have any questions about the repo, feel free to contact me at [Daina Pulatova](dianapulatovaa@gmail.com)
 
