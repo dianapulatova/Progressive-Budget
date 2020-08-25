@@ -81,5 +81,5 @@ Framework | URL
  ## Questions
    
   
-  If you have any questions about the repo, feel free to contact me at [Daina Pulatova](dianapulatovaa@gmail.com)
+  If you have any questions about the repo, feel free to contact me at <dianapulatovaa@gmail.com>
 
