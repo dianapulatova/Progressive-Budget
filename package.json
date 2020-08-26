@@ -1,0 +1,34 @@
+{
+  "name": "progressive-budget",
+  "version": "1.0.0",
+  "description": " Progressive Budget App allows users to track their money fast and easy and even when there is no internet connection/offline.",
+  "main": "api.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianapulatova/Progressive-Budget.git"
+  },
+  "keywords": [
+    "budget",
+    "offline",
+    "heroku"
+  ],
+  "author": "Diana Pulatova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dianapulatova/Progressive-Budget/issues"
+  },
+  "homepage": "https://github.com/dianapulatova/Progressive-Budget#readme",
+  "devDependencies": {
+    "compression": "^1.7.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "lite-server": "^2.5.4",
+    "mongoose": "^5.10.0",
+    "morgan": "^1.10.0"
+  }
+}
