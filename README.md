@@ -3,7 +3,7 @@
 # Progressive-Budget
   
 **Project Description** - Progressive Budget App allows users to track their money fast and easy and even when there is no internet connection/offline. 
- ![Demo](assets/gif or png)
+ ![Demo](public/assets/Budget-Tracker.gif)
 
 ## Table of Contents
 
